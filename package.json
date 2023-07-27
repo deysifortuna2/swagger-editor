@@ -89,6 +89,7 @@
     "reselect": "^4.0.0",
     "swagger-client": "^3.19.11",
     "swagger-ui": "^5.2.0",
+    "swagger-ui-dist": "^5.2.0",
     "traverse": "^0.6.6",
     "validator": "=13.9.0",
     "yaml-js": "^0.3.1"
